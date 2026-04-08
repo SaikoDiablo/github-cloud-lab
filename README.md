@@ -1,1 +1,3 @@
-# github-cloud-lab
+# GitHub Cloud Lab
+
+Simple Python script.
